@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a79f4383-5729-43c4-841c-455e698925c9" name="odoo_ssh">
+        <fileTransfer accessType="SFTP" host="localhost" port="10022" sshConfigId="765120de-4873-4310-a8dd-5474cc1a0d02" sshConfig="root@localhost:10022 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
